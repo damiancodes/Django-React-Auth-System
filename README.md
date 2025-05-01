@@ -35,7 +35,7 @@ A live demo of the project can be found [here](https://justicenyaga.pythonanywhe
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/justicenyaga/django_react_auth_system.git && cd django_react_auth_system
+   git clone https://github.com/damiancodes/Django-React-Auth-System.git && cd django_react_auth_system
    ```
 
 2. Install Python packages. It is recommended to use a virtual environment.
